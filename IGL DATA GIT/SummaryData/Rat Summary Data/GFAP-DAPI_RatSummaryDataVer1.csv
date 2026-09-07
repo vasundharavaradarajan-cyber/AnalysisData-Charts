@@ -1,0 +1,13 @@
+Label,Slice,Count,Total Area,Average Size,%Area,Mean,Image,Type
+Female Rat 1 - Slide 3 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1418,82924,58.480,11.083,255,Female Rat 1 - Slide 3 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Female Rat 1 - Slide 3 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,134,1773,13.231,0.237,255,Female Rat 1 - Slide 3 - GFAP 594 - DAPI 350 - stack.tif,GFAP
+Female Rat 2 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1628,100430,61.689,11.801,255,Female Rat 2 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Female Rat 2 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,174,1999,11.489,0.235,255,Female Rat 2 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,GFAP
+Female Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1649,105039,63.699,13.172,255,Female Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Female Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,222,2679,12.068,0.336,255,Female Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,GFAP
+Male Rat 1 - Slide 6 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1640,86244,52.588,11.370,255,Male Rat 1 - Slide 6 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Male Rat 1 - Slide 6 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,204,2808,13.765,0.370,255,Male Rat 1 - Slide 6 - GFAP 594 - DAPI 350 - stack.tif,GFAP
+Male Rat 2 - Slide 1 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1275,57051,44.746,7.573,255,Male Rat 2 - Slide 1 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Male Rat 2 - Slide 1 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,84,498,5.929,0.066,255,Male Rat 2 - Slide 1 - GFAP 594 - DAPI 350 - stack.tif,GFAP
+Male Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - TotalDAPI,DAPI_mask,1964,137742,70.133,13.679,255,Male Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,TotalDAPI
+Male Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif - GFAP,GFAP_mask,870,18448,21.205,1.832,255,Male Rat 3 - Slide 2 - GFAP 594 - DAPI 350 - stack.tif,GFAP
